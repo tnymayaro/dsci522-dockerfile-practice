@@ -6,3 +6,6 @@ dependencies = [
     "cowsay==6.1",
     "numpy==2.5.5",
 ]
+
+[tool.uv]
+add-bounds = "exact"
